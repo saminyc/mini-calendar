@@ -46,15 +46,11 @@ color: darkgrey;
 }
 
 .aboutMe{
-
-margin:0;
-position: absolute;
-bottom: 14rem;
-
-right: 45rem;
+    position: fixed;
+    bottom: 13rem;
 }
 
 a{
     text-decoration: none;
-    color:greenyellow;
+    color:yellowgreen;
 }
