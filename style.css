@@ -1,0 +1,60 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Tourney:wght@200;400&display=swap');
+
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family:cursive;
+    font-style:normal;
+    background-color: slateblue;
+}
+
+.calendar-container{
+    background-color: whitesmoke;width: 300px;
+    text-align: center;
+    border-radius: 5%;
+    box-shadow: 5px 5px black;
+    overflow: hidden;
+    position: relative;
+}
+
+.month-name{
+margin: 0;
+background-color: red;
+color: white;
+padding: 10px;
+font-size: 30px;
+font-family: portada_regular;
+font-weight: bold;
+}
+
+.date-number{font-size: 100px;margin:0;font-family:Arial, Helvetica, sans-serif;color:black;font-weight: bold;}
+
+.day-name{
+    margin: 20px 0px;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.year{
+margin: 20px 0px;
+color: darkgrey;
+}
+
+.aboutMe{
+display: flex;
+margin:0;
+position: absolute;
+bottom: 25%;
+
+right: 40%;
+}
+
+a{
+    text-decoration: none;
+    color:greenyellow;
+}
