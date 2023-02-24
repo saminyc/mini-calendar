@@ -11,8 +11,6 @@ The current date will be displayed by default.
 Contributing
 If you would like to contribute to this project, you are welcome to submit a pull request. Please ensure that your code adheres to the existing coding style and that it is well-documented.
 
-License
-
 
 
 
