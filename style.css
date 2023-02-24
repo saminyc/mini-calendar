@@ -46,12 +46,12 @@ color: darkgrey;
 }
 
 .aboutMe{
-display: flex;
+
 margin:0;
 position: absolute;
-bottom: 25%;
+bottom: 14rem;
 
-right: 40%;
+right: 45rem;
 }
 
 a{
